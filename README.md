@@ -45,14 +45,6 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
- **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021].<br>
-*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
- [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
- 
-  **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** [16th Feb., 2021] [⚡MICCAI, 2021].<br>
-*Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
- [[PDF](https://arxiv.org/abs/2102.08005)] [[Github](https://github.com/Rayicer/TransFuse)]
- 
    **Unsupervised Brain Anomaly Detection and Segmentation with Transformers.** [23rd Feb., 2021] [MIDL, 2021].<br>
 *Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, Robert Gray, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso.*<br>
  [[PDF](https://arxiv.org/abs/2102.11650)]
@@ -77,10 +69,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler.*<br>
  [[PDF](https://arxiv.org/abs/2103.06104)] [[Github](https://github.com/HXLH50K/U-Net-Transformer)]
  
-   **UNETR: Transformers for 3D Medical Image Segmentation .** [18th March, 2021].<br>
-*Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2103.10504)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV)]
- 
+   
    **Medical Transformer: Universal Brain Encoder for 3D MRI Analysis.** [28th April, 2021].<br>
 *Eunji Jun, Seungwoo Jeong, Da-Woon Heo, Heung-Il Suk.*<br>
  [[PDF](https://arxiv.org/abs/2104.13633)]
@@ -365,11 +354,11 @@ In this survey, we present the first detailed survey on Transformer-Based Segmen
 
 #### Medical Image Segmentation
 
-| Year |     Venue     |  Acronym  | Paper Title                                                                                                     | Code/Project                                                                    |
-|:----:|:-------------:|:---------:|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 2020 |     BIBM     | CellDETR | [Attention-Based Transformers for Instance Segmentation of Cells in Microstructures](https://arxiv.org/abs/2011.09763) | [Code](https://github.com/ChristophReich1996/Cell-DETR)                                  |
-| 2021 |     arXiv     | TransUNet | [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306) | [Code](https://github.com/Beckschen/TransUNet)                                  |
-| 2022 | ECCV Workshop | Swin-Unet | [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)        | [Code](https://github.com/HuCaoFighting/Swin-Unet)                              |
-| 2021 |    MICCAI     | TransFuse | [TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/abs/2102.08005)      | [Code](https://github.com/Rayicer/TransFuse)                                    |
-| 2022 |     WACV      |   UNETR   | [UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504)                       | [Code](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) |
+| Year |  Paper Title                                                                                                     | Code/Project                                                                    |
+|:----:|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 2020 | [Attention-Based Transformers for Instance Segmentation of Cells in Microstructures](https://arxiv.org/abs/2011.09763) | [Code](https://github.com/ChristophReich1996/Cell-DETR)                  |
+| 2021 | [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306) | [Code](https://github.com/Beckschen/TransUNet)                                  |
+| 2022 | [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)        | [Code](https://github.com/HuCaoFighting/Swin-Unet)                              |
+| 2021 | [TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/abs/2102.08005)      | [Code](https://github.com/Rayicer/TransFuse)                                    |
+| 2022 |  [UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504)                       | [Code](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) |
 
