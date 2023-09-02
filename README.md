@@ -341,10 +341,35 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Reza Azad, René Arimond, Ehsan Khodapanah Aghdam, Amirhossein Kazerouni, Dorit Merhof.*<br>
  [[PDF](https://arxiv.org/abs/2212.13504)][[Github](https://github.com/mindflow-institue/DAEFormer)]
 
- 
 
 
 
-   
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Introduction
+
+In this survey, we present the first detailed survey on Transformer-Based Segmentation.
+
+#### Medical Image Segmentation
+
+| Year |     Venue     |  Acronym  | Paper Title                                                                                                     | Code/Project                                                                    |
+|:----:|:-------------:|:---------:|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 2020 |     BIBM     | CellDETR | [Attention-Based Transformers for Instance Segmentation of Cells in Microstructures](https://arxiv.org/abs/2011.09763) | [Code](https://github.com/ChristophReich1996/Cell-DETR)                                  |
+| 2021 |     arXiv     | TransUNet | [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306) | [Code](https://github.com/Beckschen/TransUNet)                                  |
+| 2022 | ECCV Workshop | Swin-Unet | [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)        | [Code](https://github.com/HuCaoFighting/Swin-Unet)                              |
+| 2021 |    MICCAI     | TransFuse | [TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation](https://arxiv.org/abs/2102.08005)      | [Code](https://github.com/Rayicer/TransFuse)                                    |
+| 2022 |     WACV      |   UNETR   | [UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504)                       | [Code](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) |
 
