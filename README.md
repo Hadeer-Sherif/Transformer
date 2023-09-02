@@ -48,6 +48,10 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
    **Unsupervised Brain Anomaly Detection and Segmentation with Transformers.** [23rd Feb., 2021] [MIDL, 2021].<br>
 *Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, Robert Gray, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso.*<br>
  [[PDF](https://arxiv.org/abs/2102.11650)]
+ **Medical Transformer: Gated Axial-Attention for Medical Image Segmentation**<br>
+*Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel*<br>
+[21th Feb., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2102.10662)] [[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer)]
  
   **Convolution-Free Medical Image Segmentation using Transformers.** [26th Feb., 2021] [⚡MICCAI, 2021].<br>
 *Davood Karimi, Serge Vasylechko, Ali Gholipour.*<br>
@@ -185,7 +189,10 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
    **Mixed Transformer U-Net For Medical Image Segmentation.** [8th, Nov. 2021].<br>
 *Hongyi Wang, Shiao Xie, Lanfen Lin, Yutaro Iwamoto, Xian-Hua Han, Yen-Wei Chen, Ruofeng Tong.*<br>
  [[PDF](https://arxiv.org/abs/2111.04734)] [[Github](https://github.com/dootmaan/mt-unet)]
- 
+ **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
+*Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
+[15th Nov., 2021] [ICCV, 2021] \
+[[PDF](https://arxiv.org/abs/2111.07535)]
    **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging.** [15th Nov., 2021] [⚡ICCV, 2021].<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2111.07535)]
@@ -325,6 +332,20 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
    **When cnn meet with vit: Towards semi-supervised learning for multi-class medical image semantic segmentation.** [12th Feb., 2023] [ECCV Workshop, 2022].<br>
 *Ziyang Wang, Tianze Li, Jian-Qing Zheng, Baoru Huang.*<br>
  [[PDF](https://arxiv.org/abs/2208.06449)][[Github](https://github.com/ziyangwang007/CV-SSL-MIS)]
+ **TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation** <br>
+*Reza Azad, Moein Heidari, Moein Shariatnia, Ehsan Khodapanah Aghdam, Sanaz Karimijafarbigloo, Ehsan Adeli, Dorit Merhof*<br>
+[1st Aug., 2022] [MICCAI Workshop, 2022] \
+[[PDF]](https://arxiv.org/abs/2208.00713) [[GitHub](https://github.com/rezazad68/transdeeplab)]
+
+**Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
+*Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna*<br>
+[10th Mar., 2022] [arXiv, 2022] \
+[[PDF](https://arxiv.org/abs/2203.05573)] 
+
+**HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**<br>
+*Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof*<br>
+[18th Jul., 2022] [WACV, 2023] \
+[[PDF]](https://arxiv.org/abs/2207.08518) [[GitHub](https://github.com/amirhossein-kz/HiFormer)]
 
    **DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation.** [27th Jan., 2023].<br>
 *Reza Azad, René Arimond, Ehsan Khodapanah Aghdam, Amirhossein Kazerouni, Dorit Merhof.*<br>
